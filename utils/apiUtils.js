@@ -3,7 +3,7 @@ const CURRENT_HERITAGE_INFO_DETAIL_URL =
 const FESTIVAL_API_URL =
   "http://www.cha.go.kr/cha/openapi/selectEventListOpenapi.do";
 
-const Updated_API_URL = "http://localhost:8000/api/show-favorites";
+const Updated_API_URL = "https://back.jjiwon.site/api/show-favorites";
 
 /**
  * Builds a heritage detail URL based on the given parameters.
